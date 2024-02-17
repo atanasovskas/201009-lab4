@@ -1,4 +1,8 @@
 # mis_lab4
+![image](https://github.com/atanasovskas/201009-lab4/assets/117315637/8c290515-9264-452b-9c7a-3d15df72a66b)
+![image](https://github.com/atanasovskas/201009-lab4/assets/117315637/9ca705ce-fa2d-44f1-8c8e-69451ca2ef34)
+![image](https://github.com/atanasovskas/201009-lab4/assets/117315637/5d0b6ae7-36a5-430e-8e4a-290fcf02c578)
+
 
 A new Flutter project.
 
